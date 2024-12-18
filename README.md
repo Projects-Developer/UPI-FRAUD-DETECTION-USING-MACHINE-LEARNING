@@ -1,10 +1,11 @@
 # UPI-FRAUD-DETECTION-USING-MACHINE-LEARNING
 UPI Fraud Detection Using Machine Learning | Source Code & Documents
 
+![image](https://github.com/user-attachments/assets/47fce75b-12ab-4032-85bf-4aade3417dc1)
+
+
 ## Youtube video: https://youtu.be/uzVdxlG1gIY?si=zbc-n9LEjifhrsvn
 
-
-![image](https://github.com/user-attachments/assets/1060a9e1-17d9-4647-bcc1-293b0645c441)
 
 ### Abstract :
 
