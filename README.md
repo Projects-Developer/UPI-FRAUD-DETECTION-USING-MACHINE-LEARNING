@@ -1,8 +1,7 @@
 # UPI-FRAUD-DETECTION-USING-MACHINE-LEARNING
 UPI Fraud Detection Using Machine Learning | Source Code & Documents
 
-[![image](https://github.com/user-attachments/assets/47fce75b-12ab-4032-85bf-4aade3417dc1)](https://github.com/Projects-Developer/UPI-FRAUD-DETECTION-USING-MACHINE-LEARNING/issues/1#issue-2747559323)
-
+[[![image](https://github.com/user-attachments/assets/47fce75b-12ab-4032-85bf-4aade3417dc1)](https://github.com/Projects-Developer/UPI-FRAUD-DETECTION-USING-MACHINE-LEARNING/issues/1#issue-2747559323)
 
 ## Youtube video: https://youtu.be/uzVdxlG1gIY?si=zbc-n9LEjifhrsvn
 
@@ -34,16 +33,19 @@ keywords: UPI Fraud Detection, Machine Learning, Payement Security, social media
 
 ### Need Code, Documents & Explanation video ? 
 
+## How to Reach me :
 
 ### Mail : vatshayan007@gmail.com 
 
-
 ### WhatsApp: *+91 9310631437* (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
-
 
 ### Website : https://www.finalproject.in/
 
+### 1000 Computer Science Projects : https://www.computer-science-project.in/
 
+Mail/Message me for Projects Help 🙏🏻
+
+### Contact me for any kind of help on projects.
 ### 1000 Computer Science Projects : https://www.computer-science-project.in/
 
 
